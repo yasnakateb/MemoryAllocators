@@ -1,0 +1,6 @@
+[submodule "MSAllocator"]
+	path = MSAllocator
+	url = git@github.com:yasnakateb/MSAllocator.git
+[submodule "MSCAllocator"]
+	path = MSCAllocator
+	url = git@github.com:yasnakateb/MSCAllocator.git
